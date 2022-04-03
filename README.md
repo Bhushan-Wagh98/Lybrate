@@ -93,7 +93,7 @@ This is a team project, built by us in the Construct Week - Unit 3 at Masai Scho
 
 - GitHub is Managed & Readme.md done by Bhushan Wagh.
 
-- The Landing Page by Monika Sananse.
+- The Landing Page is created by Monika Sananse.
 
 - GoodKart page is designed & functioned by Ankur Singh Yadav.
 
