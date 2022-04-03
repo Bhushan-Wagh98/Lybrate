@@ -124,4 +124,4 @@ This is a team project, built by us in the Construct Week - Unit 3 at Masai Scho
 
 - We learned about Team building.
 
-- Bhushan Wagh helped all the members in CSS and logical part.
+- Being a team leader is very crucial thing. You have to help everyone who is facing issues in project.
