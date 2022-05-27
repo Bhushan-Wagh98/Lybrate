@@ -1,4 +1,4 @@
-# Lybrate
+# Lybrate Clone
 cloning of lybrate.com
 
 
